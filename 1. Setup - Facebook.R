@@ -1,6 +1,6 @@
 ###############################################################################
-## Title: Social Analytics for Facebook
-## Version: 0.1
+## Title: Social Analytics for Facebook: Setup environment
+## Version: 0.2
 ## Autor: Josep Curto
 ## Description: set of libraries that can be used to analyse Facebook data
 ###############################################################################
