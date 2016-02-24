@@ -5,7 +5,7 @@ This is a repository of R scripts examples for analyzing linkedIn social data. C
 - Installation process for Rlinkedin
 - Load libraries
 - Authentication process
-- Gather soem information
+- Gather your profile information
 
 Note: the type of information that we can obtain from LinkedIn is limited by its API.
 
@@ -19,7 +19,9 @@ We have to connect to the LinkedIn API via oAuth 2.0. You need to:
 - Then click on “Add application” and you get forwarded to your app´s credentials. Switch back to R and set the following variables in the script:
 
 app_name <- "XXX"
+
 consumer_key <- "XXX"
+
 consumer_secret <- "XXX"
 
 And then you can use:
