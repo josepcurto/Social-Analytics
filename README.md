@@ -13,3 +13,6 @@ This is a repository of R scripts examples for analyzing social data. It will co
 - [sna: Tools for Social Network Analysis](https://cran.r-project.org/web/packages/sna/index.html)
 - [RSiena - social network analysis](http://r-forge.r-project.org/R/?group_id=461)
 - [iGraph](http://igraph.org)
+- [TwitteR](https://github.com/geoffjentry/twitteR)
+- [Rfacebook](https://github.com/pablobarbera/Rfacebook)
+- [Rlinkedin](https://github.com/mpiccirilli/Rlinkedin)
