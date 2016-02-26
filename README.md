@@ -17,3 +17,4 @@ This is a repository of R scripts examples for analyzing social data. It will co
 - [Rfacebook](https://github.com/pablobarbera/Rfacebook)
 - [Rlinkedin](https://github.com/mpiccirilli/Rlinkedin)
 - [StreamR](https://github.com/pablobarbera/streamR)
+- [GraphTweets](https://github.com/JohnCoene/graphTweets)
