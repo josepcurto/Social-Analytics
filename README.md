@@ -14,6 +14,7 @@ This is a repository of R scripts examples for analyzing social data. It will co
 
 - [TwitteR](https://github.com/geoffjentry/twitteR)
 - [StreamR](https://github.com/pablobarbera/streamR)
+- [TwitteR2Mongo](https://github.com/ProjectTw/TwitteR2Mongo)
 - [GraphTweets](https://github.com/JohnCoene/graphTweets)
 - [Rfacebook](https://github.com/pablobarbera/Rfacebook)
 - [fbRads](https://github.com/cardcorp/fbRads)
