@@ -34,6 +34,5 @@ This is a repository of R scripts examples for analyzing social data. It will co
 - [gmailr](https://github.com/jimhester/gmailr)
 - [RAdwords](https://github.com/jburkhardt/RAdwords)
 - [plusser](https://github.com/tophcito/plusser)
-
 - [rgithub](https://github.com/cscheid/rgithub)
 - [rcrunchbase](https://github.com/tarakc02/rcrunchbase)
