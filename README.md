@@ -21,6 +21,8 @@ This is a repository of R scripts examples for analyzing social data. It will co
 - [Rlinkedin](https://github.com/mpiccirilli/Rlinkedin)
 - [tumblr](https://cran.r-project.org/web/packages/tumblR/index.html)
 - [instaR](https://github.com/pablobarbera/instaR)
+- [SocialMediaLab](https://cran.r-project.org/web/packages/SocialMediaLab/)
+- [tubern](https://cran.r-project.org/web/packages/tubern/)
 
 *Analysis*
 
